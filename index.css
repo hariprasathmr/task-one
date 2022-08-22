@@ -79,6 +79,7 @@ button{
     cursor: pointer;
     position: relative;
     overflow: hidden;
+     text-decoration: none;
 }
 span{
     background: rgb(9, 9, 9);
@@ -87,6 +88,7 @@ span{
     border-radius: 25px;
     position: absolute;
     left: 0;
+    text-decoration: none;
     bottom: 0;
     z-index: -1;
 }
