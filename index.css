@@ -105,3 +105,6 @@ button:hover{
 a:link {
   text-decoration: none;
 }
+a{
+color: white;
+}
