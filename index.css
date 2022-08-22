@@ -99,3 +99,7 @@ button:hover span{
 button:hover{
     border: none;
 }
+.blog{
+    text-decoration:none;
+}
+
