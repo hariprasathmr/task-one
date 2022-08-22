@@ -102,4 +102,6 @@ button:hover{
 .blog{
     text-decoration:none;
 }
-
+a:link {
+  text-decoration: none;
+}
